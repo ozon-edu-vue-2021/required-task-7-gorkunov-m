@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Написать скрипт, который отобразит на странице список имен на основе данных, полученных из файла `data.json`.\r По аналогии с скриншотом:\r ![Пример карточки](./res/1.png)",
+  "scripts": {
+    "start": "parcel ./index.html",
+    "build": "parcel build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozon-edu-vue-2021/required-task-7-gorkunov-m.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ozon-edu-vue-2021/required-task-7-gorkunov-m/issues"
+  },
+  "homepage": "https://github.com/ozon-edu-vue-2021/required-task-7-gorkunov-m#readme",
+  "devDependencies": {
+    "parcel": "^2.0.1"
+  }
+}
